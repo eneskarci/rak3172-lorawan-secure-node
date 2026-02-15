@@ -76,7 +76,7 @@ The device operates in the EU868 region, joins via OTAA, and periodically transm
 
 ---
 
-### 🔐 Security Mechanism
+### Security Mechanism
 
 Each transmitted payload is formatted as:
 
