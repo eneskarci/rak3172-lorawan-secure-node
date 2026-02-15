@@ -1,4 +1,4 @@
-# 🔐 RAK3172 LoRaWAN Secure Sensor Node  
+# RAK3172 LoRaWAN Secure Sensor Node  
 **Zephyr RTOS 4.3.0 | STM32WL55 | EU868 | OTAA**
 
 ![Zephyr](https://img.shields.io/badge/Zephyr-4.3.0-blue)
