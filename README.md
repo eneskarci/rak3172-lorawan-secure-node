@@ -54,6 +54,8 @@ west flash
 
 ---
 
+## 🇬🇧 English
+
 ### Project Description
 
 This project is a secure LoRaWAN sensor node implementation developed for **RAK3172 (STM32WL55)** using Zephyr RTOS.
