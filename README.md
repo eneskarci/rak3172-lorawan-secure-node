@@ -54,7 +54,7 @@ west flash
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### Project Description
 
