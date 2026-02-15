@@ -6,7 +6,6 @@
 ![Region](https://img.shields.io/badge/Region-EU868-orange)
 ![MCU](https://img.shields.io/badge/MCU-STM32WL55-red)
 ![Security](https://img.shields.io/badge/Security-HMAC--SHA256-purple)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
@@ -97,5 +96,3 @@ The backend can recompute and validate integrity using the shared secret key.
 west build -b rak3172 app_3172_2
 west flash
 ```
-
-
